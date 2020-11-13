@@ -45,16 +45,6 @@ UNION ALL
 SELECT * FROM new_google
 ORDER BY app;
 
-SELECT
-    app,
-    COUNT(app)
-FROM
-    basket
-GROUP BY
-    fruit
-HAVING
-    COUNT( fruit )> 1
-ORDER BY
-    fruit;
+
 
 	
