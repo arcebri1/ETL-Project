@@ -1,4 +1,4 @@
-# Top Apps: Google Play App Store vs. Apple App Store
+# Top Apps: Google Play vs. Apple
 
 - - -
 
